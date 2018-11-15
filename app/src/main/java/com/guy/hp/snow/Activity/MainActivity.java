@@ -1,7 +1,9 @@
-package com.guy.hp.snow;
+package com.guy.hp.snow.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.guy.hp.snow.R;
 
 public class MainActivity extends AppCompatActivity {
 
