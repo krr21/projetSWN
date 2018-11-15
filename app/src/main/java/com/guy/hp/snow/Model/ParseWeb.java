@@ -5,4 +5,6 @@ package com.guy.hp.snow.Model;
  */
 
 public class ParseWeb {
+
+    int a;
 }
